@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# downloaded at runtime by notebook 02 (MovieLens license forbids redistribution)
+data/ml-100k/
+data/ml-100k.zip

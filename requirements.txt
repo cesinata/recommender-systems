@@ -1,0 +1,11 @@
+numpy>=2.0
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+mlxtend
+squarify
+networkx
+jupyter
+ipykernel
